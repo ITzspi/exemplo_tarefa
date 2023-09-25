@@ -2,6 +2,11 @@
 
 Esta é uma página simples de um time de futebol que sou apaixonado que apresenta algumas informações sobre o Palmeiras, um dos clubes de futebol mais tradicionais. Seja bem-vindo!
 
+## 🚀 Começando
+
+[Para acessar meu site online clique aqui](https://itzspi.github.io/exemplo_tarefa/)
+OBS (recomendado acessar pelo seu computador. Caso for pelo celular mesmo, coloque-o deitado para uma experiência melhor)
+
 
 ### 🔧 Instalação
 
