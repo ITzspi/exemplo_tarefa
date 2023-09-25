@@ -2,18 +2,17 @@
 
 Esta é uma página simples de um time de futebol que sou apaixonado que apresenta algumas informações sobre o Palmeiras, um dos clubes de futebol mais tradicionais. Seja bem-vindo!
 
-## 🚀 Começando
-
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ### 🔧 Instalação
 
 O projeto está organizado da seguinte forma:
 
 - `index.html`: O código principal da página web.
-- `styles.css`: O arquivo de folha de estilos CSS.
+- `bh.html`: O segundo código HTML da página web.
+- `palxboca.html`: O terceiro código HTML da página web.
+- `styles.css`: O arquivo de folha de estilos CSS do código principal HTML.
+- `bh.css`: O arquivo de folha de estilos CSS do segundo código HTML.
+- `bh.css`: O arquivo de folha de estilos CSS do terceiro código HTML.
 - `imagens/`: Diretório contendo imagens utilizadas na página.
 - `elenco/`: Diretório contendo imagens dos jogadores do Palmeiras.
 - `reservas/`: Diretório contendo imagens dos jogadores reservas do Palmeiras.
@@ -29,21 +28,20 @@ Para executar este projeto localmente em sua máquina, siga estas etapas:
    ```bash
    git clone https://github.com/ITzspi/exemplo_tarefa.git
 
-### 🔩 Analise os testes de ponta a ponta
+```bash
+  git clone https://github.com/ITzspi/index_html.git
 
-Explique que eles verificam esses testes e porquê.
+  git clone https://github.com/ITzspi/palxboca.html.git
 
-```
-Dar exemplos
-```
+  git clone https://github.com/ITzspi/bh.html.git
 
-### ⌨️ E testes de estilo de codificação
+  git clone https://github.com/ITzspi/styles.css.git
 
-Explique que eles verificam esses testes e porquê.
+  git clone https://github.com/ITzspi/palxboca.css.git
 
-```
-Dar exemplos
-```
+  git clone https://github.com/ITzspi/bh.css.git
+
+
 
 ## 📦 Implantação
 
@@ -98,20 +96,10 @@ Certifique-se de incluir as tecnologias e ferramentas que você realmente utiliz
 
 
 
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
-
-
-
 ## ✒️ Autores
 
 * **Felipe Avelino Pedaes** - *Autor Principal* - [Perfil no GitHub](https://github.com/ITzspi)
 
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
