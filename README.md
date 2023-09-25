@@ -30,17 +30,22 @@ Para executar este projeto localmente em sua máquina, siga estas etapas:
 
 ```bash
   git clone https://github.com/ITzspi/index_html.git
-
+```
+```bash
   git clone https://github.com/ITzspi/palxboca.html.git
-
+```
+```bash
   git clone https://github.com/ITzspi/bh.html.git
-
+```
+```bash
   git clone https://github.com/ITzspi/styles.css.git
-
+```
+```bash
   git clone https://github.com/ITzspi/palxboca.css.git
-
+```
+```bash
   git clone https://github.com/ITzspi/bh.css.git
-
+```
 
 
 ## 📦 Implantação
